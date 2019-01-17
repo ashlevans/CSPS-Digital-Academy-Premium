@@ -34,7 +34,7 @@ Every Thursday, you will be provided with preparatory materials for the followin
 
 ## Online Tools & Platforms
 
-Throughout your Premium experience, you will access to:
+Throughout your Premium experience, you will access:
 - _Slack_, for chatting with your cohort.
 - [_GitHub_](https://github.com), for modules and scripts. [Create a GitHub account here](https://github.com/).
 - _Moodle_, for accessing course materials. You will soon receive a separate email with a link, username, and password to gain access.
